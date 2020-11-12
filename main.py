@@ -1,6 +1,6 @@
 while True:
     import random, time
-    peter_list = ["The girl I love is realy sick right now","It has been a really busy week", "You might have a sister in law", "I'm at the gym, gimme 5", "Going to get tacos with the boys", "Can I have the Hulu password", "No comment","Nice nice","Just asking","sounds good","Thx", "Hey how's it going","oof","Not much just checking in","You dont deserve an answer","I am not apologizing","Delete the group chat"]
+    peter_list = ["The girl I love is realy sick right now","It has been a really busy week", "You might have a sister in law", "I'm at the gym, gimme 5", "Going to get tacos with the boys", "Can I have the Hulu password", "No comment","Nice nice","Just asking","sounds good","Thx", "Hey how's it going","oof","Not much just checking in","You dont deserve an answer","I am not apologizing","Sry some people have jobs currently","Delete the group chat"]
     peter_list = random.choice(peter_list)
     print("text peter")
     answer1=input()
